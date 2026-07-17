@@ -6,7 +6,7 @@ I prototype in code and hand almost straight to frontend — less theatre, more 
 Fintech by day. Side projects that refuse to look like "another utility" by night.
 
 `Product Design` `Systems` `Design Systems` `Figma` `Code prototypes` `HTML` `WebGL` `Metrics`  
-`RU` native · `EN` B2
+`RU` native · `EN` read / write / explain — not a nonstop talker
 
 ---
 
