@@ -1,46 +1,41 @@
-### Product designer who ships interfaces people feel.
+### Interfaces worth a quiet revolution.
 
-I'm **Fyodor Svetlov** — a product designer working at the edge of UX, systems, and code.  
+I'm **Fyodor Svetlov** — product designer at the edge of UX, systems, and code.  
 Fintech by day. Side projects that refuse to look like "another utility" by night.
 
-I care about interfaces that are **simple, functional, and quietly beautiful** — the kind you want to open again for no practical reason.
+`Product Design` `Fintech` `Design Systems` `Figma` `HTML` `WebGL` `Metrics`  
+`RU` native · `EN` B2
 
 ---
 
-### Now building
+### A small revolution I'm building
 
 **music-island** — Windows music on the top edge: one hover, full control.  
-Track · playback · seek · likes. Native SMTC. Local-first. Aimed at ~20MB RAM and <1% CPU when alive.
+Track · playback · seek · likes. Native SMTC. Local-first. ~20MB RAM · <1% CPU.
 
-Open beta soon. This is how I bring my interface vision to GitHub: not slides — shipping software.
+Open beta soon — vision shipped as software, not slides.
 
 ---
 
 ### Selected work
 
-| Product | What I owned | Signal |
-| --- | --- | --- |
-| **ATB Bank** (mobile) | 40+ flow redesign · Premium space · design → front (WebGL shaders) | Personal designer for Premium |
-| **Zinda** — B2B bank, Tajikistan | 22 flows · 800+ DS tokens · dual theme + responsive via tokens | First usable B2B bank UX in market |
-| **Apelsin** — X5 loyalty | Spend / Earn logic · banners · popups · component docs | **+17%** card turnover · **-40%** landing release time |
+**ATB Bank** · *UX/UI Designer* (Premium)  
+40+ flow redesign · Premium space · design → front (WebGL)
 
-More cases → [redheadesign.super.site](https://redheadesign.super.site)
+**Zinda** — B2B bank · *Product Designer*  
+22 flows · 800+ DS tokens · dual theme + responsive via tokens
 
----
+**Apelsin** / X5 · *Product Designer*  
++10% retention · landings shipped ~70% faster
 
-### How I work
-
-- Metrics first, then craft — growth points become clear UI
-- Design systems that survive real product pressure
-- Figma → production: Cursor, frontend, WebGL when the UI needs it
-- Obsessed with motion, restraint, and the last 5% that makes something feel *inevitable*
+More → [redheadesign.super.site](https://redheadesign.super.site) `RU`
 
 ---
 
 ### Elsewhere
 
-- Portfolio: [redheadesign.super.site](https://redheadesign.super.site)
-- Telegram: [@redheadesign](https://t.me/redheadesign) · channel [Рыжий Дизайнер](https://t.me/redheadesigner)
-- Email: fedorr.svetlov@gmail.com
+- Portfolio `RU`: [redheadesign.super.site](https://redheadesign.super.site)
+- Channel `RU`: [Рыжий Дизайнер](https://t.me/redheadesigner)
+- DM: [@redheadesign](https://t.me/redheadesign) · fedorr.svetlov@gmail.com
 
-Open to product design roles where interface quality is a product advantage — especially fintech.
+Open to product design where interface quality is a product advantage — especially fintech.
