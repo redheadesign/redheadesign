@@ -13,9 +13,7 @@ Fintech by day. Side projects that refuse to look like "another utility" by nigh
 ### A small revolution I'm building
 
 **music-island** — Windows music on the top edge: one hover, full control.  
-Track · playback · seek · likes. Native SMTC. Local-first. ~20MB RAM · <1% CPU.
-
-Open beta soon — vision shipped as software, not slides.
+Track · playback · seek · likes. Native SMTC. Local-first.
 
 ---
 
