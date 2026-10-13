@@ -34,7 +34,7 @@ More → [redheadesign.super.site](https://redheadesign.super.site) `RU`
 
 ### Elsewhere
 
-- Portfolio: [redheadesign.super.com](https://redheadesign.com)
+- Portfolio: [redheadesign.com](https://redheadesign.com)
 - Channel `RU`: [Рыжий Дизайнер](https://t.me/redheadesigner)
 - DM: [@redheadesign](https://t.me/redheadesign) · fedorr.svetlov@gmail.com
 
