@@ -28,7 +28,7 @@ End-to-end product logic · 800+ DS tokens · dual theme + web/mobile via tokens
 **Apelsin** / X5 · *Product Designer*  
 +10% retention · landings shipped ~70% faster
 
-More → [redheadesign.super.site](https://redheadesign.com) 
+More → [redheadesign.com](https://redheadesign.com) 
 
 ---
 
@@ -36,6 +36,6 @@ More → [redheadesign.super.site](https://redheadesign.com)
 
 - Portfolio: [redheadesign.com](https://redheadesign.com)
 - Channel `RU`: [Рыжий Дизайнер](https://t.me/redheadesigner)
-- DM: [@redheadesign](https://t.me/redheadesign) · fedorr.svetlov@gmail.com
+- DM:`RU` `EN` [@redheadesign](https://t.me/redheadesign) · fedorr.svetlov@gmail.com
 
 Open to product / platform design where UX meets technical constraints — especially fintech.
