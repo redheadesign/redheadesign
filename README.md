@@ -28,7 +28,7 @@ End-to-end product logic · 800+ DS tokens · dual theme + web/mobile via tokens
 **Apelsin** / X5 · *Product Designer*  
 +10% retention · landings shipped ~70% faster
 
-More → [redheadesign.super.site](https://redheadesign.super.site) `RU`
+More → [redheadesign.super.site](https://redheadesign.com) 
 
 ---
 
